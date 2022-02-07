@@ -8,6 +8,6 @@
 Here you can find my Data Science, Machine Learning and Deep Learning projects.
 
 ## Projects
-Project list using Jupyter Notebook:
+Project list using Colab notebook:
 
 * **Analysing Airbnb raw data for New Youk City:** https://bit.ly/3J1JlpJ
