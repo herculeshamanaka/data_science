@@ -11,3 +11,4 @@ Here you can find my Data Science, Machine Learning and Deep Learning projects.
 Project list using Colab notebook:
 
 * **Analysing Airbnb raw data for New Youk City:** https://bit.ly/3J1JlpJ
+* **COVID-19: General overview for Brazil and the world**: https://bit.ly/3i6hBVs
